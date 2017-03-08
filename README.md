@@ -76,11 +76,12 @@ module.exports = config;
 5. `npm i webpack-dev-server --save-dev`装webpack server
 6. `npm run dev`本地服务器运行
 7. 配置react环境
-```
+	```
 	npm install babel-loader --save-dev
 	npm install react react-dom --save-dev 
 	npm install babel-preset-react
 	```
+	
 8. `npm install css-loader style-loader --save-dev`装css加载
 9. `npm install sass-loader --save-dev`装sass加载(先装node-sass)
 10. `npm install url-loader --save-dev`装图片url加载
